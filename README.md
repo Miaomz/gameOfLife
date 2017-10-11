@@ -1,0 +1,3 @@
+# gameOfLife 
+
+## a JAVA project
